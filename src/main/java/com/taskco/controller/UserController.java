@@ -39,6 +39,7 @@ public class UserController {
    // 메인페이지 (taskco)
    @RequestMapping("/taskco")
    public String taskco() {
+	  System.out.println("taskco 호출");
       return "taskco";
    }
 
