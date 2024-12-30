@@ -9,7 +9,21 @@
 ![image](https://github.com/user-attachments/assets/8f73f7fa-d555-45d4-85cc-a10a379daa31)
 
 ---
-**3. 주요 기능**
+
+**3. 화면 구성**
+
+**1page**
+![image](https://github.com/user-attachments/assets/a569c508-5e97-4cb3-bc4c-de7c8611d331)
+
+**2page**
+![image](https://github.com/user-attachments/assets/15ee8dad-6d41-467c-bc1d-8e9b6ae40d13)
+
+**3page**
+![image](https://github.com/user-attachments/assets/361163ef-29d3-4cef-9e88-f9343daa3e53)
+
+
+---
+**4. 주요 기능**
 1. 칸반 보드
 - 동적 UI 기반의 칸반 보드 제공
 - 드래그앤드롭 방식으로 업무 분류
