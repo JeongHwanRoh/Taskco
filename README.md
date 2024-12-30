@@ -17,7 +17,6 @@
 - 대시보드: 태스크 비율 및 전체 진척도 표시
    ![image](https://github.com/user-attachments/assets/03ea6606-4994-4b24-9d42-beedc660d8e2)
 
-   ![image](https://github.com/user-attachments/assets/53606daf-a5b9-4571-94a6-64960f7b7177)
 
 
 - 프로젝트 관리: 권한별 프로젝트 멤버 관리
