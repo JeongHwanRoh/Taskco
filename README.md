@@ -42,14 +42,20 @@
    - 팀장: 팀원 방출, 프로젝트 내용 변경, 팀원 권한 변경
    - 팀원: 프로젝트 탈퇴
 
-   - 화면1 (팀장)
-   ![image](https://github.com/user-attachments/assets/5f19d51d-b184-46f4-afb6-f67255aa29a5)
-
-   - 화면2 (팀장)
-   ![image](https://github.com/user-attachments/assets/2b17d9eb-bfba-40d9-8bdc-77af2a3aa76a)
-
-   - 화면3 (팀원)
-   ![image](https://github.com/user-attachments/assets/db8172f9-96ed-4ba5-a954-75055ed0825b)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="text-align: center; margin: 10px;">
+    <p>화면1 (팀장)</p>
+    <img src="https://github.com/user-attachments/assets/5f19d51d-b184-46f4-afb6-f67255aa29a5" alt="화면1" width="300">
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <p>화면2 (팀장)</p>
+    <img src="https://github.com/user-attachments/assets/2b17d9eb-bfba-40d9-8bdc-77af2a3aa76a" alt="화면2" width="300">
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <p>화면3 (팀원)</p>
+    <img src="https://github.com/user-attachments/assets/db8172f9-96ed-4ba5-a954-75055ed0825b" alt="화면3" width="300">
+  </div>
+</div>
 
 ---
 **4. 활용 기술**
