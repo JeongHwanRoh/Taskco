@@ -8,20 +8,19 @@
 ![image](https://github.com/user-attachments/assets/8f73f7fa-d555-45d4-85cc-a10a379daa31)
 
 **3. 주요 기능**
-1) 칸반보드: 동적 UI 구성, 드래그앤드롭 기반 업무 분류, 마감기한 설정, 담당자 지정
+-  칸반보드: 동적 UI 구성, 드래그앤드롭 기반 업무 분류, 마감기한 설정, 담당자 지정
    ![image](https://github.com/user-attachments/assets/e74a9384-8feb-4d1a-b2b6-63c432a06dbc)
-
-2) 채팅: 웹소켓 기반 실시간 채팅, 채팅 기록 검색
+- 채팅: 웹소켓 기반 실시간 채팅, 채팅 기록 검색
 
    ![image](https://github.com/user-attachments/assets/abd3e1b5-d345-439a-a528-47848e156c2c)
 
-3) 대시보드: 태스크 비율 및 전체 진척도 표시
+- 대시보드: 태스크 비율 및 전체 진척도 표시
    ![image](https://github.com/user-attachments/assets/03ea6606-4994-4b24-9d42-beedc660d8e2)
 
    ![image](https://github.com/user-attachments/assets/53606daf-a5b9-4571-94a6-64960f7b7177)
 
 
-4) 프로젝트 관리: 권한별 프로젝트 멤버 관리
+- 프로젝트 관리: 권한별 프로젝트 멤버 관리
    - 팀장: 팀원 방출, 프로젝트 내용 변경, 팀원 권한 변경
    - 팀원: 프로젝트 탈퇴
 
@@ -31,5 +30,5 @@
 
    ![image](https://github.com/user-attachments/assets/db8172f9-96ed-4ba5-a954-75055ed0825b)
 
-** 4. 활용 기술**
+**4. 활용 기술**
 ![image](https://github.com/user-attachments/assets/a4492164-a2c7-4349-8b4d-af64c5c2bedb)
