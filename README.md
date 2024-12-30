@@ -58,7 +58,7 @@
 </div>
 
 ---
-**4. 활용 기술**
-프로젝트에 사용된 기술 스택입니다.
+**5. 활용 기술**
+
 ![image](https://github.com/user-attachments/assets/a4492164-a2c7-4349-8b4d-af64c5c2bedb)
 ![image](https://github.com/user-attachments/assets/7871b844-033f-4342-aeda-d4500e8480c2)
