@@ -31,8 +31,8 @@
    ![image](https://github.com/user-attachments/assets/e74a9384-8feb-4d1a-b2b6-63c432a06dbc)
 ---
 2. 채팅
-   - 웹소켓을 활용한 실시간 채팅 기능 제공
-   - 채팅 기록 검색 기능 지원
+- 웹소켓을 활용한 실시간 채팅 기능 제공
+- 채팅 기록 검색 기능 지원
    ![image](https://github.com/user-attachments/assets/abd3e1b5-d345-439a-a528-47848e156c2c)
 ---
 3. 대시보드
@@ -41,8 +41,14 @@
 4. 프로젝트 관리: 권한별 프로젝트 멤버 관리 기능 제공
    - 팀장: 팀원 방출, 프로젝트 내용 변경, 팀원 권한 변경
    - 팀원: 프로젝트 탈퇴
+
+   화면1
    ![image](https://github.com/user-attachments/assets/5f19d51d-b184-46f4-afb6-f67255aa29a5)
+
+   화면2
    ![image](https://github.com/user-attachments/assets/2b17d9eb-bfba-40d9-8bdc-77af2a3aa76a)
+
+   화면3
    ![image](https://github.com/user-attachments/assets/db8172f9-96ed-4ba5-a954-75055ed0825b)
 
 ---
