@@ -49,11 +49,12 @@
   </div>
   <div style="text-align: center; margin: 10px;">
     <p>화면2 (팀장)</p>
-    <img src="https://github.com/user-attachments/assets/2b17d9eb-bfba-40d9-8bdc-77af2a3aa76a" alt="화면2" width="300">
+    <img width="576" alt="image" src="https://github.com/user-attachments/assets/3273d940-c917-489b-95e4-35a38833370d" />
+
   </div>
   <div style="text-align: center; margin: 10px;">
     <p>화면3 (팀원)</p>
-    ![image](https://github.com/user-attachments/assets/aefb07ee-8a55-446b-9bfe-9be610e61098)
+    
 
   </div>
 </div>
