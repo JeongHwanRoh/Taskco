@@ -54,7 +54,7 @@
   </div>
   <div style="text-align: center; margin: 10px;">
     <p>화면3 (팀원)</p>
-    
+    <img src="https://github.com/user-attachments/assets/db8172f9-96ed-4ba5-a954-75055ed0825b" alt="화면3" width="300">
 
   </div>
 </div>
