@@ -1,43 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Project Overview</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-    }
-    header, section {
-      padding: 20px;
-      margin-bottom: 20px;
-      border-bottom: 1px solid #ddd;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-    h1, h2 {
-      color: #333;
-    }
-    .flex-container {
-      display: flex;
-      gap: 20px;
-      flex-wrap: wrap;
-    }
-    .flex-item {
-      text-align: center;
-      flex: 1;
-      min-width: 300px;
-    }
-    .flex-item img {
-      border: 1px solid #ddd;
-      border-radius: 5px;
-    }
-  </style>
+
+
 </head>
 <body>
   <header>
